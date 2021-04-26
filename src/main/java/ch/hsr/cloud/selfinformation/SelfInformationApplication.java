@@ -9,6 +9,7 @@ public class SelfInformationApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SelfInformationApplication.class, args);
 	}
+	// Test123
 
 }
 
