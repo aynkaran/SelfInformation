@@ -9,6 +9,6 @@ public class SelfInformationApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SelfInformationApplication.class, args);
 	}
-    // test1
+    // test2
 }
 
